@@ -14,6 +14,22 @@ The pipeline processes raw e-commerce transaction data through a Medallion Archi
 The final processed data is used to create an interactive dashboard for business insights and sales analysis.
 
 ---
+## Dashboard Preview
+
+### Full Dashboard
+![Full Dashboard](dashboard/full_dashboard.png)
+
+### Dashboard with Global Filters
+![Filtered Dashboard](dashboard/filtered_dashboard.png)
+
+### Revenue Trend
+![Revenue Trend](dashboard/revenue_trend.png)
+
+### Category-wise Sales
+![Category Sales](dashboard/category_sales.png)
+
+### Sales Heatmap
+![Sales Heatmap](dashboard/sales_heatmap.png)
 
 ## Tech Stack
 
